@@ -1,0 +1,51 @@
+product_id,product_name,category,brand,unit_price,stock_quantity,reorder_level,supplier,country_of_origin,rating,date_added
+1,LG Shoes,Furniture,Apple,1369.77,15,22,GlobalTech Ltd,Kenya,4.2,2020-03-02
+2,Sony Shoes,Furniture,LG,1376.87,39,32,KenMart,Brazil,4.1,2022-07-03
+3,Apple Chair,Electronics,Lenovo,1960.28,70,37,AsiaTrade,Italy,4.6,2020-07-18
+4,Xiaomi Tablet,Groceries,Sony,1259.64,15,24,GlobalTech Ltd,India,3.9,2020-12-07
+5,Whirlpool Watch,Furniture,LG,1395.53,138,33,KenMart,Germany,4.8,2024-01-10
+6,Philips Laptop,Groceries,Sony,1093.04,199,49,EuroGoods,France,3.5,2022-01-20
+7,HP Tablet,Groceries,HP,957.65,100,22,KenMart,Germany,3.5,2022-08-24
+8,Dell Laptop,Sports,Dell,1252.32,80,23,Elite Supplies,Italy,2.6,2023-04-09
+9,Samsung Chair,Furniture,LG,1367.49,181,42,Universal Traders,Australia,2.6,2022-04-07
+10,Dell Watch,Clothing,Dell,532.34,34,46,GlobalTech Ltd,Italy,3.5,2022-07-13
+11,Philips Chair,Sports,Xiaomi,825.26,178,13,GlobalTech Ltd,Brazil,4.2,2021-01-20
+12,Dell Chair,Clothing,Philips,1314.71,94,24,Elite Supplies,France,4.4,2021-12-27
+13,Sony Tablet,Home Appliances,Xiaomi,226.47,143,26,Universal Traders,France,4.5,2021-12-06
+14,Lenovo Phone,Groceries,Philips,1812.41,43,43,EuroGoods,Kenya,2.8,2022-08-31
+15,Lenovo Chair,Home Appliances,Dell,1348.79,86,48,Elite Supplies,Brazil,4.7,2023-03-09
+16,Apple Phone,Sports,Sony,621.8,163,24,KenMart,USA,2.7,2020-04-13
+17,Samsung Chair,Clothing,Samsung,1830.32,64,22,AsiaTrade,USA,2.8,2022-01-05
+18,LG Watch,Clothing,Whirlpool,1539.79,131,46,Elite Supplies,USA,3.9,2023-05-23
+19,Philips Phone,Sports,LG,1537.83,198,25,AsiaTrade,India,3.4,2022-02-05
+20,Philips Watch,Furniture,LG,1509.8,143,6,KenMart,UK,3.2,2023-06-24
+21,Apple Shoes,Clothing,Lenovo,1875.9,139,11,Elite Supplies,Italy,3.2,2024-03-06
+22,Xiaomi TV,Home Appliances,LG,830.14,104,11,KenMart,Kenya,2.8,2020-06-07
+23,Sony Shoes,Home Appliances,LG,657.37,74,6,AsiaTrade,UK,4.5,2022-06-08
+24,Philips Shoes,Home Appliances,Apple,288.85,166,41,Universal Traders,India,2.7,2022-05-01
+25,Sony Chair,Electronics,Xiaomi,857.25,15,9,KenMart,Germany,4.5,2024-12-28
+26,Apple Laptop,Clothing,Lenovo,1708.66,173,50,GlobalTech Ltd,France,3.2,2022-04-28
+27,Dell Chair,Groceries,Sony,253.99,195,46,EuroGoods,UK,3.3,2022-01-28
+28,HP Chair,Groceries,LG,1414.41,25,29,Elite Supplies,India,4.4,2021-05-02
+29,Samsung TV,Groceries,Sony,1877.3,196,10,KenMart,UK,3.9,2024-01-27
+30,Lenovo Refrigerator,Furniture,Philips,234.37,145,23,GlobalTech Ltd,USA,2.7,2021-07-14
+31,Dell Refrigerator,Sports,Whirlpool,371.85,54,36,GlobalTech Ltd,France,4.2,2020-01-05
+32,Sony Chair,Electronics,LG,215.72,181,12,AsiaTrade,Germany,3.4,2020-05-25
+33,Lenovo TV,Home Appliances,Dell,778.43,50,22,AsiaTrade,UK,4.7,2022-08-03
+34,LG Watch,Sports,Philips,1080.54,63,42,GlobalTech Ltd,Australia,4.3,2022-01-21
+35,Apple Laptop,Sports,Sony,118.75,175,38,Elite Supplies,Germany,3.4,2020-08-21
+36,Apple Refrigerator,Electronics,Philips,1784.05,174,47,GlobalTech Ltd,UK,4.9,2023-05-22
+37,LG Refrigerator,Electronics,Xiaomi,935.01,122,39,KenMart,France,2.9,2023-01-30
+38,HP Chair,Groceries,Sony,1991.59,147,12,Universal Traders,Brazil,5.0,2024-09-10
+39,Dell Phone,Furniture,Philips,1722.49,194,48,Universal Traders,USA,3.9,2022-04-14
+40,Dell TV,Home Appliances,Dell,1375.39,145,50,Universal Traders,UK,4.9,2024-09-02
+41,Whirlpool Tablet,Sports,Sony,991.2,112,26,KenMart,UK,4.3,2024-06-01
+42,Philips Chair,Clothing,Sony,807.95,121,34,GlobalTech Ltd,Australia,3.5,2021-11-14
+43,Dell TV,Groceries,Whirlpool,635.79,25,39,GlobalTech Ltd,Italy,4.1,2020-12-25
+44,Apple Shoes,Electronics,HP,682.69,27,26,Universal Traders,Canada,3.6,2021-04-10
+45,Lenovo Chair,Furniture,HP,769.4,26,39,GlobalTech Ltd,Germany,2.6,2024-06-14
+46,Philips Phone,Sports,Lenovo,699.45,173,9,KenMart,USA,2.8,2023-07-30
+47,Whirlpool Phone,Home Appliances,HP,386.86,47,15,GlobalTech Ltd,USA,3.9,2022-05-28
+48,HP Refrigerator,Sports,Sony,586.31,42,27,KenMart,USA,2.7,2021-01-26
+49,Apple Laptop,Electronics,Whirlpool,1310.23,112,34,KenMart,Australia,3.6,2020-03-21
+50,Samsung Shoes,Clothing,HP,609.92,178,6,GlobalTech Ltd,Australia,4.4,2020-06-13

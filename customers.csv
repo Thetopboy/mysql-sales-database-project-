@@ -1,0 +1,51 @@
+customer_id,first_name,last_name,email,phone,address,city,state,country,postal_code,date_joined
+1,Noah,Lopez,noah.lopez@yahoo.com,+57-465708954,189 Main St,Paris,IDF,France,85361,2022-07-14
+2,Hassan,Nguyen,hassan.nguyen@yahoo.com,+95-548582471,94 Highway Rd,New York,NY,USA,13355,2022-12-20
+3,Olivia,Lopez,olivia.lopez@yahoo.com,+8-724497123,128 Main St,Paris,IDF,France,56338,2021-06-08
+4,Grace,Khan,grace.khan@outlook.com,+16-189831063,136 Highway Rd,Rome,RM,Italy,87825,2024-02-10
+5,Raj,Khan,raj.khan@yahoo.com,+66-499997746,98 Highway Rd,Rome,RM,Italy,53767,2022-04-23
+6,Arjun,Johnson,arjun.johnson@yahoo.com,+24-133773760,155 Park Ave,Paris,IDF,France,73631,2023-09-27
+7,Elena,Martin,elena.martin@outlook.com,+24-867141665,102 Park Ave,Rome,RM,Italy,55163,2021-07-17
+8,Mia,Kamau,mia.kamau@outlook.com,+99-818127557,3 Main St,Mumbai,MH,India,16716,2024-09-17
+9,Elena,Patel,elena.patel@yahoo.com,+54-646535358,3 Main St,Mumbai,MH,India,29858,2020-08-11
+10,Olivia,Martin,olivia.martin@yahoo.com,+67-247292552,142 Main St,Nairobi,NRB,Kenya,81149,2020-08-29
+11,Arjun,Brown,arjun.brown@yahoo.com,+57-407565721,103 Main St,Toronto,ON,Canada,10288,2021-10-28
+12,Carlos,Wilson,carlos.wilson@outlook.com,+97-792316204,70 Park Ave,Mumbai,MH,India,77237,2024-07-19
+13,Noah,Khan,noah.khan@outlook.com,+19-791581139,38 Highway Rd,London,ENG,UK,83034,2023-06-01
+14,Arjun,Smith,arjun.smith@outlook.com,+48-912763584,120 Main St,Sydney,NSW,Australia,60376,2023-11-30
+15,Daniel,Anderson,daniel.anderson@gmail.com,+88-501383818,20 Main St,New York,NY,USA,44853,2021-12-29
+16,Sophia,Nguyen,sophia.nguyen@gmail.com,+47-377445983,130 Park Ave,Paris,IDF,France,62755,2020-11-16
+17,Sophia,Clarke,sophia.clarke@gmail.com,+97-706826884,67 Park Ave,London,ENG,UK,46736,2021-08-21
+18,Ava,Müller,ava.müller@gmail.com,+66-900938677,189 Highway Rd,Nairobi,NRB,Kenya,38915,2021-04-20
+19,Liam,Hernandez,liam.hernandez@outlook.com,+37-777026191,78 Highway Rd,Sydney,NSW,Australia,41076,2022-12-02
+20,Mia,Clarke,mia.clarke@gmail.com,+31-956366143,185 Highway Rd,Mumbai,MH,India,46336,2022-03-12
+21,Carlos,Lee,carlos.lee@outlook.com,+64-194368473,28 Park Ave,New York,NY,USA,44560,2020-08-04
+22,Jacob,Lopez,jacob.lopez@outlook.com,+10-140918332,198 Park Ave,New York,NY,USA,15565,2023-09-03
+23,Emma,Kamau,emma.kamau@yahoo.com,+72-236991567,178 Highway Rd,Nairobi,NRB,Kenya,73495,2024-02-06
+24,Ethan,Anderson,ethan.anderson@outlook.com,+57-876442309,135 Main St,New York,NY,USA,21273,2020-07-08
+25,Ava,Hernandez,ava.hernandez@yahoo.com,+62-998511360,78 Main St,Rome,RM,Italy,23562,2021-05-15
+26,Noah,Martin,noah.martin@yahoo.com,+85-556459198,15 Main St,Sydney,NSW,Australia,43506,2020-04-21
+27,Elena,Garcia,elena.garcia@outlook.com,+84-730885538,98 Park Ave,Sao Paulo,SP,Brazil,89317,2021-09-01
+28,Ava,Brown,ava.brown@gmail.com,+37-518482432,38 Main St,London,ENG,UK,46012,2020-06-21
+29,Aisha,Brown,aisha.brown@outlook.com,+28-533092115,20 Park Ave,Berlin,BE,Germany,84994,2024-04-27
+30,Ethan,Nguyen,ethan.nguyen@gmail.com,+24-561487969,76 Park Ave,London,ENG,UK,54448,2021-05-11
+31,Arjun,Hernandez,arjun.hernandez@gmail.com,+25-371954958,166 Highway Rd,Sao Paulo,SP,Brazil,93848,2024-01-21
+32,Chloe,Patel,chloe.patel@yahoo.com,+94-448482075,124 Park Ave,Mumbai,MH,India,97042,2023-02-27
+33,Liam,Singh,liam.singh@gmail.com,+40-128699712,143 Highway Rd,London,ENG,UK,17262,2024-11-21
+34,Raj,Anderson,raj.anderson@gmail.com,+75-195647669,54 Main St,Sydney,NSW,Australia,65413,2022-02-21
+35,Ethan,Johnson,ethan.johnson@yahoo.com,+65-861183072,9 Main St,Mumbai,MH,India,23419,2023-07-02
+36,Sophia,Patel,sophia.patel@outlook.com,+14-980620191,109 Main St,New York,NY,USA,42030,2020-06-23
+37,Emma,Kamau,emma.kamau@outlook.com,+14-387655796,142 Park Ave,Nairobi,NRB,Kenya,17792,2020-02-04
+38,Emma,Rossi,emma.rossi@gmail.com,+49-721071837,49 Main St,Nairobi,NRB,Kenya,69789,2023-09-01
+39,Arjun,Rossi,arjun.rossi@outlook.com,+15-252069895,58 Park Ave,Berlin,BE,Germany,35508,2020-02-26
+40,Chloe,Kamau,chloe.kamau@yahoo.com,+73-120405070,30 Highway Rd,Mumbai,MH,India,14049,2024-11-21
+41,Ava,Wilson,ava.wilson@outlook.com,+24-539221304,41 Highway Rd,Paris,IDF,France,58117,2020-09-19
+42,Emma,Davis,emma.davis@outlook.com,+25-294563564,91 Highway Rd,Mumbai,MH,India,20461,2022-02-14
+43,Hassan,Rossi,hassan.rossi@gmail.com,+95-569177559,88 Main St,Rome,RM,Italy,13967,2022-12-28
+44,Arjun,Rossi,arjun.rossi@gmail.com,+80-164484193,94 Main St,Paris,IDF,France,41976,2021-05-18
+45,Jacob,Hernandez,jacob.hernandez@outlook.com,+49-295462687,73 Highway Rd,Paris,IDF,France,44064,2020-06-20
+46,Jacob,Brown,jacob.brown@outlook.com,+93-423025122,177 Main St,London,ENG,UK,62552,2023-10-25
+47,Noah,Garcia,noah.garcia@yahoo.com,+77-990006305,150 Highway Rd,Mumbai,MH,India,87080,2021-06-21
+48,Noah,Garcia,noah.garcia@gmail.com,+42-686489832,64 Park Ave,Mumbai,MH,India,89714,2021-03-07
+49,Mia,Lopez,mia.lopez@yahoo.com,+51-311249975,114 Main St,New York,NY,USA,68121,2023-07-07
+50,Arjun,Lopez,arjun.lopez@gmail.com,+37-705818012,5 Park Ave,Rome,RM,Italy,11865,2020-06-26
